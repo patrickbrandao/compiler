@@ -1,0 +1,47 @@
+
+# Vitais
+	shcompiler
+
+# Ferrametnas
+	arp
+	autostatus
+
+	cpu
+	csvtools
+
+	dns-ping
+	dns-top
+	dns-tracer
+	dns-stress
+	ns-ping
+	dns-perf
+	dns-passive
+	dns-ubind
+
+	dhcp-test
+	dhcp-ping
+
+	ethernet
+	happyeyeballs
+	http
+
+	icmp
+	iperf2
+	iperf3
+
+	mikrotikpings
+	rostools
+	pppoeping
+
+	rrdtools
+
+	tcp-ping
+	tcp-tunnel
+	tcp-tunnel6
+
+	tcp-rst
+	tcp-syn
+
+	udp-cyclone
+
+
