@@ -1,0 +1,12 @@
+
+
+
+# arquivos gerais em /etc
+	etc
+
+# scripts de boot e gerenciamento de servicos
+	initsys
+
+
+
+
