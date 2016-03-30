@@ -1,0 +1,33 @@
+
+agregation
+
+bind9
+bird
+
+dhcpserver
+
+freeradius
+
+iproute2
+
+pppoeng
+pppoeserver
+
+quagga
+
+radvd
+
+# SEM PROXY
+#- lusca
+#- squid3
+
+unbound
+
+# VPNs
+	vpn-hans
+	vpn-icmp
+	vpn-itun
+	vpn-ptunnel
+	vpn-udp
+	vpn-vtun
+
