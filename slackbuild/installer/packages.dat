@@ -1,0 +1,21 @@
+
+@nopkg
+
+#------------------------- Primeiro: pacotes
+	busybox
+	dropbear
+
+#------------------------- Objetos finais:
+@force
+
+	# FALTA O INITRD
+	# initrd-proprio
+	# initrd-copia-original
+	initrd
+
+
+	# ISO
+	iso
+
+
+
