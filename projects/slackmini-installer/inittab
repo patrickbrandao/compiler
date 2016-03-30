@@ -1,0 +1,19 @@
+# /etc/inittab
+
+# Configuracao de INIT para iniciar e desligar o sistema
+
+# Preparar sistema para iniciar outros softwares
+::sysinit:/bin/sh /etc/setup/prepare.sh
+
+# Iniciar shell no console
+::respawn:-/bin/sh
+
+# Usar shell "askfirst" no terminal tty2 e tty3
+tty2::askfirst:-/bin/sh
+tty3::askfirst:-/bin/sh
+
+# Reboot when ctrl-alt-del keys are pressed. 
+::ctrlaltdel:/bin/sh /etc/setup/reboot.sh
+
+# Procedimentod para desligar
+::shutdown:/bin/sh /etc/setup/finish.sh
