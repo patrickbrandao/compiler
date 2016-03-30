@@ -1,0 +1,27 @@
+
+
+#
+# VOIP: pacote com softwares que envolvem VOIP e telefonia
+#
+
+
+	sms3
+
+	dahdi-linux
+
+	libss7
+	
+	asterisk
+
+
+
+
+
+#
+# Asterisk e cia, apenas experimentao, nao incluir no software
+#                            muito pesado, tem wav de exemplos
+#voip
+
+#
+
+
