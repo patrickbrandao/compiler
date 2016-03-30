@@ -1,0 +1,109 @@
+
+# Consolidado
+
+	acl
+	libcap
+	pcre
+	popt
+	glibc
+	termcap
+	expat
+	gcc
+	gdbm
+	glib2
+	gmp
+	libtool
+	mpfr
+	libpng
+	libsigsegv
+	libusb
+	libusb-compat
+	gpm
+	mm
+
+	# removido junto com o 'likns'
+	# libjpeg-turbo
+	# librsvg
+	# libtiff
+	# libcroco
+	# gdk-pixbuf
+
+	# Necessario para libteam e asterisk
+	libjansson
+
+	# Necessario para libteam (admin4-network/pkg-agregation)
+	libdaemon
+
+	libaio
+	db44
+	db48
+
+	# Apache
+	apr
+	apr-util
+
+	libelf
+	elfutils
+
+	# Freeradius
+	talloc
+
+	# Unbound
+	ldns
+
+	# Bind/host/dig
+	idnkit
+
+	libidn
+
+	harfbuzz
+
+	# Necessario para o 'ping' e 'ping6'
+	libffi
+	libmcrypt
+
+	nettle
+
+	libevent
+	libgpg-error
+
+	lvm2
+
+	# pre-requisito do tcpdump
+	libpcap
+
+	libnl
+	libnl3
+
+	libslang
+
+	libxml2
+
+# Importados do projeto 'n'
+	libassuan
+	libndp
+	libssh2
+	libgcrypt
+	libnet
+	p11-kit
+
+# Dependencias gerais
+	icu4c
+
+
+# Vitais
+	ncurses
+
+	#openssl-solibs: falta separar do projeto openssl em 'n'
+
+	lzo
+
+	zlib
+	readline
+
+# Vitais 
+#	libx86
+#	readline
+
+
+
