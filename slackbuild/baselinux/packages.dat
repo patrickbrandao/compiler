@@ -1,0 +1,28 @@
+
+
+# nativos
+	bin
+	bash
+
+	directories
+
+	eudev
+
+# Bibliotecas copiadas a cru (evitar, temos que fabricar tudo proprio)
+	# elflibs
+
+
+	makedev
+
+	coreutils
+
+# pkgmanager esta dentro do projeto admin4-packages, puxar para dentro do compiler
+	pkgmanager
+
+# auxiliares
+
+	linuxutils
+
+	myscripts
+	toolbox
+
