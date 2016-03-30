@@ -1,0 +1,25 @@
+
+
+
+
+# prepara fontes
+kernel
+
+
+# via git: obtem firmwares atualizados
+	kernel-firmware
+
+
+# pre-compilado: obtem os modulos do kernel
+	kernel-modules
+
+
+# pre-compilado: obtem as imagens
+	kernel-images
+
+
+
+
+
+
+
