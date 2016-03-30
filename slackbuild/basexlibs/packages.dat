@@ -1,0 +1,30 @@
+
+#
+# Pacotes do X-11 uteis para aplicativos geradores de imagens e vetoriais
+#
+
+	freetype
+	cairo
+	pango
+	mesa
+	fontconfig
+
+	libdrm
+
+	libxcb
+	
+	libXau
+	libXdamage
+	libXdmcp
+	libXext
+	libXfixes
+	libXrender
+
+	libXxf86vm
+	libxshmfence
+
+	libX11
+	libICE
+	libSM
+
+	pixman
